@@ -2,6 +2,8 @@
 
 This projet allow to test [Redis](https://redis.io) in master/replica and cluster.
 
+You can read blog [post about Redis](https://blog.zenika.com/2019/02/06/debuter-avec-redis/).
+
 You must have Docker installed to use this project.
 
 ## Build
